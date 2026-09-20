@@ -1,6 +1,6 @@
 ## <div align="center">
 
-# I'm Divyansh Dave WELCOME TO MY github
+# I'm Divyansh Dave 
 
 </div>
 
