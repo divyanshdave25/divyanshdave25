@@ -4,11 +4,7 @@
 
 </div>
 
-
-CSE Student @ SGSITS Indore | C/C++ & Java | DSA & Full-Stack Development | Exploring AI/ML | Aspiring Software Engineer & Problem Solver
-
-
-Hi, I'm **Divyansh Dave**, a Computer Science Engineering student at **SGSITS Indore**.
+A Computer Science Engineering student at **SGSITS Indore**.
 
 💻 **Languages:** C, C++, Java
 
