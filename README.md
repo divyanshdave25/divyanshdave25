@@ -1,4 +1,9 @@
-## Hi there 👋
+## <div align="center">
+
+# I'm Divyansh Dave WELCOME TO MY github
+
+</div>
+
 
 CSE Student @ SGSITS Indore | C/C++ & Java | DSA & Full-Stack Development | Exploring AI/ML | Aspiring Software Engineer & Problem Solver
 
