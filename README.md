@@ -4,7 +4,7 @@
 
 </div>
 
-A Computer Science Engineering student at **SGSITS Indore**.
+A B.Tech CSE student at **SGSITS Indore**.
 
 💻 **Languages:** C, C++, Java
 
